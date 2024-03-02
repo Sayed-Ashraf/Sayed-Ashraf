@@ -127,7 +127,7 @@ I'm always open to new opportunities and collaborations, so feel free to get in 
 <h3>🔥 Streak Stats</h3>
 
 <p>
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ahmed's streak" src="https://streak-stats.demolab.com/?user=AhmedEweesKorany&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sayed's streak" src="https://streak-stats.demolab.com/?user=Sayed-Ashraf&theme=monokai-metallian&hide_border=true"/>
 </p>
 
 <h3>💻 GitHub Profile Stats</h3>
